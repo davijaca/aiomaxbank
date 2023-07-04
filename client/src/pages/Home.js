@@ -109,7 +109,7 @@ class Home extends React.Component {
 
             <p>No more digging around the backyard, no more hiding bones, treats and toys under the couch, or fighting off other dogs from your precious belongings. At AioMax Bank, your precious treats are safe.</p>
 
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+            <p></p>
             
           </div>
         </div>    
@@ -123,12 +123,12 @@ class Home extends React.Component {
           <div class="col-md-4 text-center" data-aos="fade-up" data-aos-delay="">
             <img src="assets/images/flaticon-svg/svg/001-wallet.svg" alt="Free Website Template by Free-Template.co" class="img-fluid w-25 mb-4"/>
             <h3 class="card-title">Money Savings</h3>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p></p>
           </div>
           <div class="col-md-4 text-center" data-aos="fade-up" data-aos-delay="100">
             <img src="assets/images/flaticon-svg/svg/004-cart.svg" alt="Free Website Template by Free-Template.co" class="img-fluid w-25 mb-4"/>
             <h3 class="card-title">Online Shoppings</h3>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p></p>
           </div>
           <div class="col-md-4 text-center" data-aos="fade-up" data-aos-delay="200">
             <img src="assets/images/flaticon-svg/svg/006-credit-card.svg" alt="Free Website Template by Free-Template.co" class="img-fluid w-25 mb-4"/>
@@ -147,15 +147,15 @@ class Home extends React.Component {
           <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
             <div class="mb-4">
               <h3 class="h3 mb-4">Banking Solutions Is Our Priority</h3>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p></p>
               
             </div>
               
             <div class="mb-4">
               <ul class="list-unstyled ul-check success">
-                <li>Officia quaerat eaque neque</li>
-                <li>Lorem ipsum dolor sit amet</li>
-                <li>Consectetur adipisicing elit</li>
+                <li>Debit</li>
+                <li>Credit</li>
+                <li>Savings</li>
               </ul>
               
             </div>
